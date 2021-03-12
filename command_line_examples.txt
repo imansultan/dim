@@ -1,0 +1,2 @@
+X_data_train.txt y_data_train.txt feat_names.txt example_ids.txt -num_shuffles 20 -stab_gap 0.3
+X_data_train.txt y_data_train.txt feat_names.txt example_ids.txt -num_shuffles 10 -stab_gap 0.3 -num_alphas 3 -smoothness_base 10 -smoothess_power_bounds -1 2
